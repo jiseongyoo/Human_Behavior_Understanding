@@ -1,0 +1,7 @@
+# input file path
+string[] file_path
+
+# test(true) or train(false)
+bool test false
+---
+string result

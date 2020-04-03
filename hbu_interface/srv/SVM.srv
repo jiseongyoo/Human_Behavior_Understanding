@@ -1,0 +1,12 @@
+# argument values
+# for training, 1 file_path is required.
+# for testing, 2 file_paths are required.
+string[2] file_path
+
+# test(true) or train(false)
+bool test false
+
+# scale(true)
+bool scale false
+---
+string result
